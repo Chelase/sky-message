@@ -1,0 +1,17 @@
+{
+  "name": "sky-message",
+  "version": "1.0.2",
+  "description": "A message plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "message",
+    "tailwindcss",
+    "daisyui"
+],
+  "author": "",
+  "license": "ISC"
+}

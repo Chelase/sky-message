@@ -1,0 +1,13 @@
+.animation-top {
+    /*margin-top: 10px;*/
+    animation: top 1s;
+}
+
+@keyframes top {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
